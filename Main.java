@@ -10,7 +10,6 @@ public class Main {
         miCoche.incPuertas();
         System.out.println(miCoche.nPuertas);
 
-
     }
 
     public static void suma(int a, int b, int c) {
